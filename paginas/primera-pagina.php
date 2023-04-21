@@ -1,0 +1,25 @@
+
+
+
+<!-- ======================================================================================================================================
+    PAGINA REALIZADA POR : DANNY JOSE JIMENEZ GUTIERREZ
+    PROYECTO : CURSO DE PHP COMPLETO 2023 CARACAS, VENEZUELA 
+    CORREO   : dennaly88@gmail.com       
+    DESARROLLADOR WEB
+    TELEFONOS :0426-249-15-40 | 0239-212-53-04
+======================================================================================================================================== -->
+
+<?php
+	  echo "Este es el curso de PHP de Programación Danny Jimenez.";
+ ?>
+
+
+
+<!-- ======================================================================================================================================
+    PAGINA REALIZADA POR : DANNY JOSE JIMENEZ GUTIERREZ
+    PROYECTO : CURSO DE PHP COMPLETO 2023 CARACAS, VENEZUELA 
+    CORREO   : dennaly88@gmail.com       
+    DESARROLLADOR WEB
+    TELEFONOS :0426-249-15-40 | 0239-212-53-04
+======================================================================================================================================== -->
+
